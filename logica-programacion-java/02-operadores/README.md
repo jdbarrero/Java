@@ -38,7 +38,3 @@ Los operadores relacionales producen como resultado un valor `boolean`: `true` o
 | `!` | NOT: niega o invierte un valor booleano |
 
 
-java Ejemplo1OperadoresAritmeticos
-```
-
-Todos los ejemplos de esta carpeta fueron verificados con `javac` antes de incorporarlos al repositorio.
