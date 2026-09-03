@@ -1,0 +1,21 @@
+public class Ejemplo1OperadoresAritmeticos {
+
+    public static void main(String[] args) {
+
+        int numero1 = 20;
+        int numero2 = 6;
+
+        // Los operadores aritmeticos realizan calculos numericos.
+        int suma = numero1 + numero2;
+        int resta = numero1 - numero2;
+        int multiplicacion = numero1 * numero2;
+        int division = numero1 / numero2;
+        int residuo = numero1 % numero2;
+
+        System.out.println("Suma: " + suma);
+        System.out.println("Resta: " + resta);
+        System.out.println("Multiplicacion: " + multiplicacion);
+        System.out.println("Division entera: " + division);
+        System.out.println("Residuo: " + residuo);
+    }
+}
